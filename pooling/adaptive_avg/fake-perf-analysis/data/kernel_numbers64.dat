@@ -1,0 +1,492 @@
+==PROF== Target process 20161 terminated before first instrumented API call.
+==PROF== Connected to process 20160 (/nvme/liuhangda/.conda/envs/opinsight/bin/python3.8)
+==PROF== Profiling "reduce_kernel" - 0: 0%....50%....100% - 10 passes
+***  0 ***
+==PROF== Profiling "adaptive_average_pool" - 1: 0%....50%....100% - 10 passes
+***  1 ***
+==PROF== Profiling "adaptive_average_pool" - 2: 0%....50%....100% - 10 passes
+***  2 ***
+==PROF== Profiling "adaptive_average_pool" - 3: 0%....50%....100% - 10 passes
+***  3 ***
+==PROF== Profiling "adaptive_average_pool" - 4: 0%....50%....100% - 10 passes
+***  4 ***
+==PROF== Profiling "adaptive_average_pool" - 5: 0%....50%....100% - 10 passes
+***  5 ***
+==PROF== Profiling "adaptive_average_pool" - 6: 0%....50%....100% - 10 passes
+***  6 ***
+==PROF== Profiling "adaptive_average_pool" - 7: 0%....50%....100% - 10 passes
+***  7 ***
+==PROF== Profiling "adaptive_average_pool" - 8: 0%....50%....100% - 10 passes
+***  8 ***
+==PROF== Profiling "adaptive_average_pool" - 9: 0%....50%....100% - 10 passes
+***  9 ***
+==PROF== Profiling "reduce_kernel" - 10: 0%....50%....100% - 10 passes
+***  10 ***
+==PROF== Profiling "adaptive_average_pool" - 11: 0%....50%....100% - 10 passes
+***  11 ***
+==PROF== Profiling "adaptive_average_pool" - 12: 0%....50%....100% - 10 passes
+***  12 ***
+==PROF== Profiling "adaptive_average_pool" - 13: 0%....50%....100% - 10 passes
+***  13 ***
+==PROF== Profiling "adaptive_average_pool" - 14: 0%....50%....100% - 10 passes
+***  14 ***
+==PROF== Profiling "adaptive_average_pool" - 15: 0%....50%....100% - 10 passes
+***  15 ***
+==PROF== Profiling "adaptive_average_pool" - 16: 0%....50%....100% - 10 passes
+***  16 ***
+==PROF== Profiling "adaptive_average_pool" - 17: 0%....50%....100% - 10 passes
+***  17 ***
+==PROF== Profiling "adaptive_average_pool" - 18: 0%....50%....100% - 10 passes
+***  18 ***
+==PROF== Profiling "adaptive_average_pool" - 19: 0%....50%....100% - 10 passes
+***  19 ***
+==PROF== Profiling "reduce_kernel" - 20: 0%....50%....100% - 10 passes
+***  20 ***
+==PROF== Profiling "adaptive_average_pool" - 21: 0%....50%....100% - 10 passes
+***  21 ***
+==PROF== Profiling "adaptive_average_pool" - 22: 0%....50%....100% - 10 passes
+***  22 ***
+==PROF== Profiling "adaptive_average_pool" - 23: 0%....50%....100% - 10 passes
+***  23 ***
+==PROF== Profiling "adaptive_average_pool" - 24: 0%....50%....100% - 10 passes
+***  24 ***
+==PROF== Profiling "adaptive_average_pool" - 25: 0%....50%....100% - 10 passes
+***  25 ***
+==PROF== Profiling "adaptive_average_pool" - 26: 0%....50%....100% - 10 passes
+***  26 ***
+==PROF== Profiling "adaptive_average_pool" - 27: 0%....50%....100% - 10 passes
+***  27 ***
+==PROF== Profiling "adaptive_average_pool" - 28: 0%....50%....100% - 10 passes
+***  28 ***
+==PROF== Profiling "adaptive_average_pool" - 29: 0%....50%....100% - 10 passes
+***  29 ***
+==PROF== Profiling "reduce_kernel" - 30: 0%....50%....100% - 10 passes
+***  30 ***
+==PROF== Profiling "adaptive_average_pool" - 31: 0%....50%....100% - 10 passes
+***  31 ***
+==PROF== Profiling "adaptive_average_pool" - 32: 0%....50%....100% - 10 passes
+***  32 ***
+==PROF== Profiling "adaptive_average_pool" - 33: 0%....50%....100% - 10 passes
+***  33 ***
+==PROF== Profiling "adaptive_average_pool" - 34: 0%....50%....100% - 10 passes
+***  34 ***
+==PROF== Profiling "adaptive_average_pool" - 35: 0%....50%....100% - 10 passes
+***  35 ***
+==PROF== Profiling "adaptive_average_pool" - 36: 0%....50%....100% - 10 passes
+***  36 ***
+==PROF== Profiling "adaptive_average_pool" - 37: 0%....50%....100% - 10 passes
+***  37 ***
+==PROF== Profiling "adaptive_average_pool" - 38: 0%....50%....100% - 10 passes
+***  38 ***
+==PROF== Profiling "adaptive_average_pool" - 39: 0%....50%....100% - 10 passes
+***  39 ***
+==PROF== Profiling "reduce_kernel" - 40: 0%....50%....100% - 10 passes
+***  40 ***
+==PROF== Profiling "adaptive_average_pool" - 41: 0%....50%....100% - 10 passes
+***  41 ***
+==PROF== Profiling "adaptive_average_pool" - 42: 0%....50%....100% - 10 passes
+***  42 ***
+==PROF== Profiling "adaptive_average_pool" - 43: 0%....50%....100% - 10 passes
+***  43 ***
+==PROF== Profiling "adaptive_average_pool" - 44: 0%....50%....100% - 10 passes
+***  44 ***
+==PROF== Profiling "adaptive_average_pool" - 45: 0%....50%....100% - 10 passes
+***  45 ***
+==PROF== Profiling "adaptive_average_pool" - 46: 0%....50%....100% - 10 passes
+***  46 ***
+==PROF== Profiling "adaptive_average_pool" - 47: 0%....50%....100% - 10 passes
+***  47 ***
+==PROF== Profiling "adaptive_average_pool" - 48: 0%....50%....100% - 10 passes
+***  48 ***
+==PROF== Profiling "adaptive_average_pool" - 49: 0%....50%....100% - 10 passes
+***  49 ***
+==PROF== Profiling "reduce_kernel" - 50: 0%....50%....100% - 10 passes
+***  50 ***
+==PROF== Profiling "adaptive_average_pool" - 51: 0%....50%....100% - 10 passes
+***  51 ***
+==PROF== Profiling "adaptive_average_pool" - 52: 0%....50%....100% - 10 passes
+***  52 ***
+==PROF== Profiling "adaptive_average_pool" - 53: 0%....50%....100% - 10 passes
+***  53 ***
+==PROF== Profiling "adaptive_average_pool" - 54: 0%....50%....100% - 10 passes
+***  54 ***
+==PROF== Profiling "adaptive_average_pool" - 55: 0%....50%....100% - 10 passes
+***  55 ***
+==PROF== Profiling "adaptive_average_pool" - 56: 0%....50%....100% - 10 passes
+***  56 ***
+==PROF== Profiling "adaptive_average_pool" - 57: 0%....50%....100% - 10 passes
+***  57 ***
+==PROF== Profiling "adaptive_average_pool" - 58: 0%....50%....100% - 10 passes
+***  58 ***
+==PROF== Profiling "adaptive_average_pool" - 59: 0%....50%....100% - 10 passes
+***  59 ***
+==PROF== Profiling "reduce_kernel" - 60: 0%....50%....100% - 10 passes
+***  60 ***
+==PROF== Profiling "adaptive_average_pool" - 61: 0%....50%....100% - 10 passes
+***  61 ***
+==PROF== Profiling "adaptive_average_pool" - 62: 0%....50%....100% - 10 passes
+***  62 ***
+==PROF== Profiling "adaptive_average_pool" - 63: 0%....50%....100% - 10 passes
+***  63 ***
+==PROF== Profiling "adaptive_average_pool" - 64: 0%....50%....100% - 10 passes
+***  64 ***
+==PROF== Profiling "adaptive_average_pool" - 65: 0%....50%....100% - 10 passes
+***  65 ***
+==PROF== Profiling "adaptive_average_pool" - 66: 0%....50%....100% - 10 passes
+***  66 ***
+==PROF== Profiling "adaptive_average_pool" - 67: 0%....50%....100% - 10 passes
+***  67 ***
+==PROF== Profiling "adaptive_average_pool" - 68: 0%....50%....100% - 10 passes
+***  68 ***
+==PROF== Profiling "adaptive_average_pool" - 69: 0%....50%....100% - 10 passes
+***  69 ***
+==PROF== Profiling "reduce_kernel" - 70: 0%....50%....100% - 10 passes
+***  70 ***
+==PROF== Profiling "adaptive_average_pool" - 71: 0%....50%....100% - 10 passes
+***  71 ***
+==PROF== Profiling "adaptive_average_pool" - 72: 0%....50%....100% - 10 passes
+***  72 ***
+==PROF== Profiling "adaptive_average_pool" - 73: 0%....50%....100% - 10 passes
+***  73 ***
+==PROF== Profiling "adaptive_average_pool" - 74: 0%....50%....100% - 10 passes
+***  74 ***
+==PROF== Profiling "adaptive_average_pool" - 75: 0%....50%....100% - 10 passes
+***  75 ***
+==PROF== Profiling "adaptive_average_pool" - 76: 0%....50%....100% - 10 passes
+***  76 ***
+==PROF== Profiling "adaptive_average_pool" - 77: 0%....50%....100% - 10 passes
+***  77 ***
+==PROF== Profiling "adaptive_average_pool" - 78: 0%....50%....100% - 10 passes
+***  78 ***
+==PROF== Profiling "adaptive_average_pool" - 79: 0%....50%....100% - 10 passes
+***  79 ***
+==PROF== Profiling "reduce_kernel" - 80: 0%....50%....100% - 10 passes
+***  80 ***
+==PROF== Profiling "adaptive_average_pool" - 81: 0%....50%....100% - 10 passes
+***  81 ***
+==PROF== Profiling "adaptive_average_pool" - 82: 0%....50%....100% - 10 passes
+***  82 ***
+==PROF== Profiling "adaptive_average_pool" - 83: 0%....50%....100% - 10 passes
+***  83 ***
+==PROF== Profiling "adaptive_average_pool" - 84: 0%....50%....100% - 10 passes
+***  84 ***
+==PROF== Profiling "adaptive_average_pool" - 85: 0%....50%....100% - 10 passes
+***  85 ***
+==PROF== Profiling "adaptive_average_pool" - 86: 0%....50%....100% - 10 passes
+***  86 ***
+==PROF== Profiling "adaptive_average_pool" - 87: 0%....50%....100% - 10 passes
+***  87 ***
+==PROF== Profiling "adaptive_average_pool" - 88: 0%....50%....100% - 10 passes
+***  88 ***
+==PROF== Profiling "adaptive_average_pool" - 89: 0%....50%....100% - 10 passes
+***  89 ***
+==PROF== Profiling "reduce_kernel" - 90: 0%....50%....100% - 10 passes
+***  90 ***
+==PROF== Profiling "adaptive_average_pool" - 91: 0%....50%....100% - 10 passes
+***  91 ***
+==PROF== Profiling "adaptive_average_pool" - 92: 0%....50%....100% - 10 passes
+***  92 ***
+==PROF== Profiling "adaptive_average_pool" - 93: 0%....50%....100% - 10 passes
+***  93 ***
+==PROF== Profiling "adaptive_average_pool" - 94: 0%....50%....100% - 10 passes
+***  94 ***
+==PROF== Profiling "adaptive_average_pool" - 95: 0%....50%....100% - 10 passes
+***  95 ***
+==PROF== Profiling "adaptive_average_pool" - 96: 0%....50%....100% - 10 passes
+***  96 ***
+==PROF== Profiling "adaptive_average_pool" - 97: 0%....50%....100% - 10 passes
+***  97 ***
+==PROF== Profiling "adaptive_average_pool" - 98: 0%....50%....100% - 10 passes
+***  98 ***
+==PROF== Profiling "adaptive_average_pool" - 99: 0%....50%....100% - 10 passes
+***  99 ***
+==PROF== Profiling "reduce_kernel" - 100: 0%....50%....100% - 10 passes
+***  100 ***
+==PROF== Profiling "adaptive_average_pool" - 101: 0%....50%....100% - 10 passes
+***  101 ***
+==PROF== Profiling "adaptive_average_pool" - 102: 0%....50%....100% - 10 passes
+***  102 ***
+==PROF== Profiling "adaptive_average_pool" - 103: 0%....50%....100% - 10 passes
+***  103 ***
+==PROF== Profiling "adaptive_average_pool" - 104: 0%....50%....100% - 10 passes
+***  104 ***
+==PROF== Profiling "adaptive_average_pool" - 105: 0%....50%....100% - 10 passes
+***  105 ***
+==PROF== Profiling "adaptive_average_pool" - 106: 0%....50%....100% - 10 passes
+***  106 ***
+==PROF== Profiling "adaptive_average_pool" - 107: 0%....50%....100% - 10 passes
+***  107 ***
+==PROF== Profiling "adaptive_average_pool" - 108: 0%....50%....100% - 10 passes
+***  108 ***
+==PROF== Profiling "adaptive_average_pool" - 109: 0%....50%....100% - 10 passes
+***  109 ***
+==PROF== Profiling "reduce_kernel" - 110: 0%....50%....100% - 10 passes
+***  110 ***
+==PROF== Profiling "adaptive_average_pool" - 111: 0%....50%....100% - 10 passes
+***  111 ***
+==PROF== Profiling "adaptive_average_pool" - 112: 0%....50%....100% - 10 passes
+***  112 ***
+==PROF== Profiling "adaptive_average_pool" - 113: 0%....50%....100% - 10 passes
+***  113 ***
+==PROF== Profiling "adaptive_average_pool" - 114: 0%....50%....100% - 10 passes
+***  114 ***
+==PROF== Profiling "adaptive_average_pool" - 115: 0%....50%....100% - 10 passes
+***  115 ***
+==PROF== Profiling "adaptive_average_pool" - 116: 0%....50%....100% - 10 passes
+***  116 ***
+==PROF== Profiling "adaptive_average_pool" - 117: 0%....50%....100% - 10 passes
+***  117 ***
+==PROF== Profiling "adaptive_average_pool" - 118: 0%....50%....100% - 10 passes
+***  118 ***
+==PROF== Profiling "adaptive_average_pool" - 119: 0%....50%....100% - 10 passes
+***  119 ***
+==PROF== Profiling "reduce_kernel" - 120: 0%....50%....100% - 10 passes
+***  120 ***
+==PROF== Profiling "adaptive_average_pool" - 121: 0%....50%....100% - 10 passes
+***  121 ***
+==PROF== Profiling "adaptive_average_pool" - 122: 0%....50%....100% - 10 passes
+***  122 ***
+==PROF== Profiling "adaptive_average_pool" - 123: 0%....50%....100% - 10 passes
+***  123 ***
+==PROF== Profiling "adaptive_average_pool" - 124: 0%....50%....100% - 10 passes
+***  124 ***
+==PROF== Profiling "adaptive_average_pool" - 125: 0%....50%....100% - 10 passes
+***  125 ***
+==PROF== Profiling "adaptive_average_pool" - 126: 0%....50%....100% - 10 passes
+***  126 ***
+==PROF== Profiling "adaptive_average_pool" - 127: 0%....50%....100% - 10 passes
+***  127 ***
+==PROF== Profiling "adaptive_average_pool" - 128: 0%....50%....100% - 10 passes
+***  128 ***
+==PROF== Profiling "adaptive_average_pool" - 129: 0%....50%....100% - 10 passes
+***  129 ***
+==PROF== Profiling "reduce_kernel" - 130: 0%....50%....100% - 10 passes
+***  130 ***
+==PROF== Profiling "adaptive_average_pool" - 131: 0%....50%....100% - 10 passes
+***  131 ***
+==PROF== Profiling "adaptive_average_pool" - 132: 0%....50%....100% - 10 passes
+***  132 ***
+==PROF== Profiling "adaptive_average_pool" - 133: 0%....50%....100% - 10 passes
+***  133 ***
+==PROF== Profiling "adaptive_average_pool" - 134: 0%....50%....100% - 10 passes
+***  134 ***
+==PROF== Profiling "adaptive_average_pool" - 135: 0%....50%....100% - 10 passes
+***  135 ***
+==PROF== Profiling "adaptive_average_pool" - 136: 0%....50%....100% - 10 passes
+***  136 ***
+==PROF== Profiling "adaptive_average_pool" - 137: 0%....50%....100% - 10 passes
+***  137 ***
+==PROF== Profiling "adaptive_average_pool" - 138: 0%....50%....100% - 10 passes
+***  138 ***
+==PROF== Profiling "adaptive_average_pool" - 139: 0%....50%....100% - 10 passes
+***  139 ***
+==PROF== Profiling "reduce_kernel" - 140: 0%....50%....100% - 10 passes
+***  140 ***
+==PROF== Profiling "adaptive_average_pool" - 141: 0%....50%....100% - 10 passes
+***  141 ***
+==PROF== Profiling "adaptive_average_pool" - 142: 0%....50%....100% - 10 passes
+***  142 ***
+==PROF== Profiling "adaptive_average_pool" - 143: 0%....50%....100% - 10 passes
+***  143 ***
+==PROF== Profiling "adaptive_average_pool" - 144: 0%....50%....100% - 10 passes
+***  144 ***
+==PROF== Profiling "adaptive_average_pool" - 145: 0%....50%....100% - 10 passes
+***  145 ***
+==PROF== Profiling "adaptive_average_pool" - 146: 0%....50%....100% - 10 passes
+***  146 ***
+==PROF== Profiling "adaptive_average_pool" - 147: 0%....50%....100% - 10 passes
+***  147 ***
+==PROF== Profiling "adaptive_average_pool" - 148: 0%....50%....100% - 10 passes
+***  148 ***
+==PROF== Profiling "adaptive_average_pool" - 149: 0%....50%....100% - 10 passes
+***  149 ***
+==PROF== Profiling "reduce_kernel" - 150: 0%....50%....100% - 10 passes
+***  150 ***
+==PROF== Profiling "adaptive_average_pool" - 151: 0%....50%....100% - 10 passes
+***  151 ***
+==PROF== Profiling "adaptive_average_pool" - 152: 0%....50%....100% - 10 passes
+***  152 ***
+==PROF== Profiling "adaptive_average_pool" - 153: 0%....50%....100% - 10 passes
+***  153 ***
+==PROF== Profiling "adaptive_average_pool" - 154: 0%....50%....100% - 10 passes
+***  154 ***
+==PROF== Profiling "adaptive_average_pool" - 155: 0%....50%....100% - 10 passes
+***  155 ***
+==PROF== Profiling "adaptive_average_pool" - 156: 0%....50%....100% - 10 passes
+***  156 ***
+==PROF== Profiling "adaptive_average_pool" - 157: 0%....50%....100% - 10 passes
+***  157 ***
+==PROF== Profiling "adaptive_average_pool" - 158: 0%....50%....100% - 10 passes
+***  158 ***
+==PROF== Profiling "adaptive_average_pool" - 159: 0%....50%....100% - 10 passes
+***  159 ***
+==PROF== Profiling "reduce_kernel" - 160: 0%....50%....100% - 10 passes
+***  160 ***
+==PROF== Profiling "adaptive_average_pool" - 161: 0%....50%....100% - 10 passes
+***  161 ***
+==PROF== Profiling "adaptive_average_pool" - 162: 0%....50%....100% - 10 passes
+***  162 ***
+==PROF== Profiling "adaptive_average_pool" - 163: 0%....50%....100% - 10 passes
+***  163 ***
+==PROF== Profiling "adaptive_average_pool" - 164: 0%....50%....100% - 10 passes
+***  164 ***
+==PROF== Profiling "adaptive_average_pool" - 165: 0%....50%....100% - 10 passes
+***  165 ***
+==PROF== Profiling "adaptive_average_pool" - 166: 0%....50%....100% - 10 passes
+***  166 ***
+==PROF== Profiling "adaptive_average_pool" - 167: 0%....50%....100% - 10 passes
+***  167 ***
+==PROF== Profiling "adaptive_average_pool" - 168: 0%....50%....100% - 10 passes
+***  168 ***
+==PROF== Profiling "adaptive_average_pool" - 169: 0%....50%....100% - 10 passes
+***  169 ***
+==PROF== Profiling "reduce_kernel" - 170: 0%....50%....100% - 10 passes
+***  170 ***
+==PROF== Profiling "adaptive_average_pool" - 171: 0%....50%....100% - 10 passes
+***  171 ***
+==PROF== Profiling "adaptive_average_pool" - 172: 0%....50%....100% - 10 passes
+***  172 ***
+==PROF== Profiling "adaptive_average_pool" - 173: 0%....50%....100% - 10 passes
+***  173 ***
+==PROF== Profiling "adaptive_average_pool" - 174: 0%....50%....100% - 10 passes
+***  174 ***
+==PROF== Profiling "adaptive_average_pool" - 175: 0%....50%....100% - 10 passes
+***  175 ***
+==PROF== Profiling "adaptive_average_pool" - 176: 0%....50%....100% - 10 passes
+***  176 ***
+==PROF== Profiling "adaptive_average_pool" - 177: 0%....50%....100% - 10 passes
+***  177 ***
+==PROF== Profiling "adaptive_average_pool" - 178: 0%....50%....100% - 10 passes
+***  178 ***
+==PROF== Profiling "adaptive_average_pool" - 179: 0%....50%....100% - 10 passes
+***  179 ***
+==PROF== Profiling "reduce_kernel" - 180: 0%....50%....100% - 10 passes
+***  180 ***
+==PROF== Profiling "adaptive_average_pool" - 181: 0%....50%....100% - 10 passes
+***  181 ***
+==PROF== Profiling "adaptive_average_pool" - 182: 0%....50%....100% - 10 passes
+***  182 ***
+==PROF== Profiling "adaptive_average_pool" - 183: 0%....50%....100% - 10 passes
+***  183 ***
+==PROF== Profiling "adaptive_average_pool" - 184: 0%....50%....100% - 10 passes
+***  184 ***
+==PROF== Profiling "adaptive_average_pool" - 185: 0%....50%....100% - 10 passes
+***  185 ***
+==PROF== Profiling "adaptive_average_pool" - 186: 0%....50%....100% - 10 passes
+***  186 ***
+==PROF== Profiling "adaptive_average_pool" - 187: 0%....50%....100% - 10 passes
+***  187 ***
+==PROF== Profiling "adaptive_average_pool" - 188: 0%....50%....100% - 10 passes
+***  188 ***
+==PROF== Profiling "adaptive_average_pool" - 189: 0%....50%....100% - 10 passes
+***  189 ***
+==PROF== Profiling "reduce_kernel" - 190: 0%....50%....100% - 10 passes
+***  190 ***
+==PROF== Profiling "adaptive_average_pool" - 191: 0%....50%....100% - 10 passes
+***  191 ***
+==PROF== Profiling "adaptive_average_pool" - 192: 0%....50%....100% - 10 passes
+***  192 ***
+==PROF== Profiling "adaptive_average_pool" - 193: 0%....50%....100% - 10 passes
+***  193 ***
+==PROF== Profiling "adaptive_average_pool" - 194: 0%....50%....100% - 10 passes
+***  194 ***
+==PROF== Profiling "adaptive_average_pool" - 195: 0%....50%....100% - 10 passes
+***  195 ***
+==PROF== Profiling "adaptive_average_pool" - 196: 0%....50%....100% - 10 passes
+***  196 ***
+==PROF== Profiling "adaptive_average_pool" - 197: 0%....50%....100% - 10 passes
+***  197 ***
+==PROF== Profiling "adaptive_average_pool" - 198: 0%....50%....100% - 10 passes
+***  198 ***
+==PROF== Profiling "adaptive_average_pool" - 199: 0%....50%....100% - 10 passes
+***  199 ***
+==PROF== Profiling "reduce_kernel" - 200: 0%....50%....100% - 10 passes
+***  200 ***
+==PROF== Profiling "adaptive_average_pool" - 201: 0%....50%....100% - 10 passes
+***  201 ***
+==PROF== Profiling "adaptive_average_pool" - 202: 0%....50%....100% - 10 passes
+***  202 ***
+==PROF== Profiling "adaptive_average_pool" - 203: 0%....50%....100% - 10 passes
+***  203 ***
+==PROF== Profiling "adaptive_average_pool" - 204: 0%....50%....100% - 10 passes
+***  204 ***
+==PROF== Profiling "adaptive_average_pool" - 205: 0%....50%....100% - 10 passes
+***  205 ***
+==PROF== Profiling "adaptive_average_pool" - 206: 0%....50%....100% - 10 passes
+***  206 ***
+==PROF== Profiling "adaptive_average_pool" - 207: 0%....50%....100% - 10 passes
+***  207 ***
+==PROF== Profiling "adaptive_average_pool" - 208: 0%....50%....100% - 10 passes
+***  208 ***
+==PROF== Profiling "adaptive_average_pool" - 209: 0%....50%....100% - 10 passes
+***  209 ***
+==PROF== Profiling "reduce_kernel" - 210: 0%....50%....100% - 10 passes
+==PROF== Profiling "reduce_kernel" - 211: 0%....50%....100% - 10 passes
+***  210 ***
+==PROF== Profiling "adaptive_average_pool" - 212: 0%
+==WARNING== Backing up device memory in system memory. Kernel replay might be slow. Consider using "--replay-mode application" to avoid memory save-and-restore.
+
+==WARNING== Backing up device memory in system memory. Kernel replay might be slow. Consider using "--replay-mode application" to avoid memory save-and-restore.
+....50%....100% - 10 passes
+***  211 ***
+==PROF== Profiling "adaptive_average_pool" - 213: 0%....50%....100% - 10 passes
+***  212 ***
+==PROF== Profiling "adaptive_average_pool" - 214: 0%....50%....100% - 10 passes
+***  213 ***
+==PROF== Profiling "adaptive_average_pool" - 215: 0%....50%....100% - 10 passes
+***  214 ***
+==PROF== Profiling "adaptive_average_pool" - 216: 0%....50%....100% - 10 passes
+***  215 ***
+==PROF== Profiling "adaptive_average_pool" - 217: 0%....50%....100% - 10 passes
+***  216 ***
+==PROF== Profiling "adaptive_average_pool" - 218: 0%....50%....100% - 10 passes
+***  217 ***
+==PROF== Profiling "adaptive_average_pool" - 219: 0%....50%....100% - 10 passes
+***  218 ***
+==PROF== Profiling "adaptive_average_pool" - 220: 0%....50%....100% - 10 passes
+***  219 ***
+==PROF== Profiling "reduce_kernel" - 221: 0%....50%....100% - 10 passes
+***  220 ***
+==PROF== Profiling "adaptive_average_pool" - 222: 0%....50%....100% - 10 passes
+***  221 ***
+==PROF== Profiling "adaptive_average_pool" - 223: 0%....50%....100% - 10 passes
+***  222 ***
+==PROF== Profiling "adaptive_average_pool" - 224: 0%....50%....100% - 10 passes
+***  223 ***
+==PROF== Profiling "adaptive_average_pool" - 225: 0%....50%....100% - 10 passes
+***  224 ***
+==PROF== Profiling "adaptive_average_pool" - 226: 0%....50%....100% - 10 passes
+***  225 ***
+==PROF== Profiling "adaptive_average_pool" - 227: 0%....50%....100% - 10 passes
+***  226 ***
+==PROF== Profiling "adaptive_average_pool" - 228: 0%....50%....100% - 10 passes
+***  227 ***
+==PROF== Profiling "adaptive_average_pool" - 229: 0%....50%....100% - 10 passes
+***  228 ***
+==PROF== Profiling "adaptive_average_pool" - 230: 0%....50%....100% - 10 passes
+***  229 ***
+==PROF== Profiling "reduce_kernel" - 231: 0%....50%....100% - 10 passes
+==PROF== Profiling "reduce_kernel" - 232: 0%....50%....100% - 10 passes
+==PROF== Profiling "reduce_kernel" - 233: 0%....50%....100% - 10 passes
+==PROF== Profiling "reduce_kernel" - 234: 0%....50%....100% - 10 passes
+***  230 ***
+==PROF== Profiling "adaptive_average_pool" - 235: 0%....50%....100% - 10 passes
+***  231 ***
+==PROF== Profiling "adaptive_average_pool" - 236: 0%....50%....100% - 10 passes
+***  232 ***
+==PROF== Profiling "adaptive_average_pool" - 237: 0%....50%....100% - 10 passes
+***  233 ***
+==PROF== Profiling "adaptive_average_pool" - 238: 0%....50%....100% - 10 passes
+***  234 ***
+==PROF== Profiling "adaptive_average_pool" - 239: 0%....50%....100% - 10 passes
+***  235 ***
+==PROF== Profiling "adaptive_average_pool" - 240: 0%....50%....100% - 10 passes
+***  236 ***
+==PROF== Profiling "adaptive_average_pool" - 241: 0%....50%....100% - 10 passes
+***  237 ***
+==PROF== Profiling "adaptive_average_pool" - 242: 0%....50%....100% - 10 passes
+***  238 ***
+==PROF== Profiling "adaptive_average_pool" - 243: 0%....50%....100% - 10 passes
+***  239 ***
+==PROF== Disconnected from process 20160
+==PROF== Report: /nvme/liuhangda/dloperator_analysis/dloperator_analysis/adaptive_avg/pooling.ncu-rep

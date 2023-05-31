@@ -1,0 +1,4 @@
+min gemm algo ratio:  gemmcnt  352 winocnt  0 totalcnt  437 ratio  0.8054919908466819 processed_gemmcnt  352 processed_winocnt  0 processed_totalcnt  360 processed_ratio  0.8054919908466819 360
+min gemm algo ratio:  gemmcnt  344 winocnt  0 totalcnt  437 ratio  0.7871853546910755 processed_gemmcnt  344 processed_winocnt  0 processed_totalcnt  344 processed_ratio  0.7871853546910755 344
+min gemm algo ratio:  gemmcnt  324 winocnt  0 totalcnt  437 ratio  0.7414187643020596 processed_gemmcnt  324 processed_winocnt  0 processed_totalcnt  324 processed_ratio  0.7414187643020596 324
+min gemm algo ratio:  gemmcnt  307 winocnt  0 totalcnt  437 ratio  0.7025171624713958 processed_gemmcnt  307 processed_winocnt  0 processed_totalcnt  307 processed_ratio  0.7025171624713958 307

@@ -1,0 +1,14 @@
+==PROF== Connected to process 9935 (/home/jianglijuan/dloperator_analysis/conv2d/fakepara-perf-analysis/conv2d_nsight_profile)
+/home/jianglijuan/dloperator_analysis/conv2d/fakepara-perf-analysis/./conv2d_nsight_profile Starting...
+
+CUDA Device Query (Runtime API) version (CUDART static linking)
+
+Detected 8 CUDA Capable device(s)
+pass 0
+pass 1
+pass 2
+pass 3
+time = 3.58s
+==PROF== Disconnected from process 9935
+"ID","Process ID","Process Name","Host Name","Kernel Name","Kernel Time","Context","Stream","Section Name","Metric Name","Metric Unit","Metric Value","Rule Name","Rule Type","Rule Description"
+"0","9935","conv2d_nsight_profile","127.0.0.1","void implicit_convolve_sgemm<float, float, (int)128, (int)5, (int)5, (int)3, (int)3, (int)3, (int)1, (bool)0, (bool)0, (bool)1>(int, int, int, const T1 *, int, T2 *, const T1 *, kernel_conv_params, unsigned long long, int, float, float, int, const T2 *, const T2 *, bool, int, int)","2023-Mar-01 19:10:59","1","1","SpeedOfLight_RooflineChart","","","","SOLFPRoofline","INF","The ratio of peak float (fp32) to double (fp64) performance on this device is 2:1. The kernel achieved  close to 1% of this device's fp32 peak performance and 0% of its fp64 peak performance. See the Kernel Profiling Guide (https://docs.nvidia.com/nsight-compute/ProfilingGuide/index.html#roofline) for mode details on roofline analysis."

@@ -1,0 +1,789 @@
+==PROF== Connected to process 94684 (/home/jianglijuan/dloperator_analysis/conv2d/fakepara-perf-analysis/conv2d_nsight_profile)
+==PROF== Profiling "im2col4d_kernel" - 1: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 2: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 1 1***
+==PROF== Profiling "implicit_convolve_sgemm" - 3: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 2 2***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 4: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 4 4***
+==PROF== Profiling "implicit_convolve_sgemm" - 5: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 7 7***
+==PROF== Profiling "implicit_convolve_sgemm" - 6: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 8 8***
+==PROF== Profiling "im2col4d_kernel" - 7: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 8: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 15 15***
+==PROF== Profiling "im2col4d_kernel" - 9: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 10: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 16 16***
+==PROF== Profiling "implicit_convolve_sgemm" - 11: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 24 24***
+==PROF== Profiling "im2col4d_kernel" - 12: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 13: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 32 32***
+==PROF== Profiling "im2col4d_kernel" - 14: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 15: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 48 48***
+==PROF== Profiling "im2col4d_kernel" - 16: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 17: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 64 64***
+==PROF== Profiling "implicit_convolve_sgemm" - 18: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 96 96***
+==PROF== Profiling "implicit_convolve_sgemm" - 19: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 97 97***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 20: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 128 128***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 21: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 256 256***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 22: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 384 384***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 23: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 512 512***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 24: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 640 640***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 25: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 768 768***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 26: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 896 896***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 27: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 1024 1024***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 28: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 2048 2048***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 29: 0%....50%....100% - 10 passes
+*** 1 1 1 1 64 3072 3072***
+==PROF== Profiling "im2col4d_kernel" - 30: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 31: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 1 1***
+==PROF== Profiling "im2col4d_kernel" - 32: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 33: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 2 2***
+==PROF== Profiling "implicit_convolve_sgemm" - 34: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 4 4***
+==PROF== Profiling "implicit_convolve_sgemm" - 35: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 7 7***
+==PROF== Profiling "im2col4d_kernel" - 36: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 37: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 8 8***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 38: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 15 15***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 39: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 16 16***
+==PROF== Profiling "implicit_convolve_sgemm" - 40: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 24 24***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 41: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 32 32***
+==PROF== Profiling "implicit_convolve_sgemm" - 42: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 48 48***
+==PROF== Profiling "implicit_convolve_sgemm" - 43: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 64 64***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 44: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 96 96***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 45: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 97 97***
+==PROF== Profiling "computeOffsetsKernel" - 46: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 47: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 128 128***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 48: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 256 256***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 49: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 384 384***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 50: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 512 512***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 51: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 640 640***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 52: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 768 768***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 53: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 896 896***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 54: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 1024 1024***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 55: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 2048 2048***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 56: 0%....50%....100% - 10 passes
+*** 2 2 1 1 64 3072 3072***
+==PROF== Profiling "implicit_convolve_sgemm" - 57: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 1 1***
+==PROF== Profiling "im2col4d_kernel" - 58: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 59: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 2 2***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 60: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 4 4***
+==PROF== Profiling "im2col4d_kernel" - 61: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 62: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 7 7***
+==PROF== Profiling "implicit_convolve_sgemm" - 63: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 8 8***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 64: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 15 15***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 65: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 16 16***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 66: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 24 24***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 67: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 32 32***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 68: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 48 48***
+==PROF== Profiling "implicit_convolve_sgemm" - 69: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 64 64***
+==PROF== Profiling "implicit_convolve_sgemm" - 70: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 96 96***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 71: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 97 97***
+==PROF== Profiling "implicit_convolve_sgemm" - 72: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 128 128***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 73: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 256 256***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 74: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 384 384***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 75: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 512 512***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 76: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 640 640***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 77: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 768 768***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 78: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 896 896***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 79: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 1024 1024***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 80: 0%....50%....100% - 10 passes
+*** 4 4 1 1 64 2048 2048***
+==PROF== Profiling "implicit_convolve_sgemm" - 81: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 1 1***
+==PROF== Profiling "implicit_convolve_sgemm" - 82: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 2 2***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 83: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 4 4***
+==PROF== Profiling "implicit_convolve_sgemm" - 84: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 7 7***
+==PROF== Profiling "im2col4d_kernel" - 85: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 86: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 8 8***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 87: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 15 15***
+==PROF== Profiling "implicit_convolve_sgemm" - 88: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 16 16***
+==PROF== Profiling "implicit_convolve_sgemm" - 89: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 24 24***
+==PROF== Profiling "implicit_convolve_sgemm" - 90: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 32 32***
+==PROF== Profiling "computeOffsetsKernel" - 91: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 92: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 48 48***
+==PROF== Profiling "computeOffsetsKernel" - 93: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 94: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 64 64***
+==PROF== Profiling "implicit_convolve_sgemm" - 95: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 96 96***
+==PROF== Profiling "implicit_convolve_sgemm" - 96: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 97 97***
+==PROF== Profiling "implicit_convolve_sgemm" - 97: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 128 128***
+==PROF== Profiling "implicit_convolve_sgemm" - 98: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 256 256***
+==PROF== Profiling "implicit_convolve_sgemm" - 99: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 384 384***
+==PROF== Profiling "implicit_convolve_sgemm" - 100: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 512 512***
+==PROF== Profiling "implicit_convolve_sgemm" - 101: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 640 640***
+==PROF== Profiling "implicit_convolve_sgemm" - 102: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 768 768***
+==PROF== Profiling "implicit_convolve_sgemm" - 103: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 896 896***
+==PROF== Profiling "implicit_convolve_sgemm" - 104: 0%....50%....100% - 10 passes
+*** 8 8 1 1 64 1024 1024***
+==PROF== Profiling "implicit_convolve_sgemm" - 105: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 1 1***
+==PROF== Profiling "implicit_convolve_sgemm" - 106: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 2 2***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 107: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 4 4***
+==PROF== Profiling "implicit_convolve_sgemm" - 108: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 7 7***
+==PROF== Profiling "implicit_convolve_sgemm" - 109: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 8 8***
+==PROF== Profiling "implicit_convolve_sgemm" - 110: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 15 15***
+==PROF== Profiling "implicit_convolve_sgemm" - 111: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 16 16***
+==PROF== Profiling "implicit_convolve_sgemm" - 112: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 24 24***
+==PROF== Profiling "implicit_convolve_sgemm" - 113: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 32 32***
+==PROF== Profiling "implicit_convolve_sgemm" - 114: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 48 48***
+==PROF== Profiling "implicit_convolve_sgemm" - 115: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 64 64***
+==PROF== Profiling "implicit_convolve_sgemm" - 116: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 96 96***
+==PROF== Profiling "implicit_convolve_sgemm" - 117: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 97 97***
+==PROF== Profiling "implicit_convolve_sgemm" - 118: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 128 128***
+==PROF== Profiling "implicit_convolve_sgemm" - 119: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 256 256***
+==PROF== Profiling "computeOffsetsKernel" - 120: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 121: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 384 384***
+==PROF== Profiling "implicit_convolve_sgemm" - 122: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 512 512***
+==PROF== Profiling "computeOffsetsKernel" - 123: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 124: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 640 640***
+==PROF== Profiling "computeOffsetsKernel" - 125: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 126: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 768 768***
+==PROF== Profiling "computeOffsetsKernel" - 127: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 128: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 896 896***
+==PROF== Profiling "implicit_convolve_sgemm" - 129: 0%....50%....100% - 10 passes
+*** 16 16 1 1 64 1024 1024***
+==PROF== Profiling "implicit_convolve_sgemm" - 130: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 1 1***
+==PROF== Profiling "implicit_convolve_sgemm" - 131: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 2 2***
+==PROF== Profiling "implicit_convolve_sgemm" - 132: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 4 4***
+==PROF== Profiling "implicit_convolve_sgemm" - 133: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 7 7***
+==PROF== Profiling "implicit_convolve_sgemm" - 134: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 8 8***
+==PROF== Profiling "implicit_convolve_sgemm" - 135: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 15 15***
+==PROF== Profiling "implicit_convolve_sgemm" - 136: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 16 16***
+==PROF== Profiling "implicit_convolve_sgemm" - 137: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 24 24***
+==PROF== Profiling "implicit_convolve_sgemm" - 138: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 32 32***
+==PROF== Profiling "implicit_convolve_sgemm" - 139: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 48 48***
+==PROF== Profiling "implicit_convolve_sgemm" - 140: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 64 64***
+==PROF== Profiling "implicit_convolve_sgemm" - 141: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 96 96***
+==PROF== Profiling "kern_precompute_indices" - 142: 0%....50%....100% - 10 passes
+==PROF== Profiling "precomputed_convolve_sgemm" - 143: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 97 97***
+==PROF== Profiling "implicit_convolve_sgemm" - 144: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 128 128***
+==PROF== Profiling "implicit_convolve_sgemm" - 145: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 256 256***
+==PROF== Profiling "implicit_convolve_sgemm" - 146: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 384 384***
+==PROF== Profiling "implicit_convolve_sgemm" - 147: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 512 512***
+==PROF== Profiling "implicit_convolve_sgemm" - 148: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 640 640***
+==PROF== Profiling "implicit_convolve_sgemm" - 149: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 768 768***
+==PROF== Profiling "implicit_convolve_sgemm" - 150: 0%....50%....100% - 10 passes
+*** 32 32 1 1 64 896 896***
+==PROF== Profiling "implicit_convolve_sgemm" - 151: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 1 1***
+==PROF== Profiling "implicit_convolve_sgemm" - 152: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 2 2***
+==PROF== Profiling "implicit_convolve_sgemm" - 153: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 4 4***
+==PROF== Profiling "implicit_convolve_sgemm" - 154: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 7 7***
+==PROF== Profiling "implicit_convolve_sgemm" - 155: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 8 8***
+==PROF== Profiling "implicit_convolve_sgemm" - 156: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 15 15***
+==PROF== Profiling "implicit_convolve_sgemm" - 157: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 16 16***
+==PROF== Profiling "implicit_convolve_sgemm" - 158: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 24 24***
+==PROF== Profiling "implicit_convolve_sgemm" - 159: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 32 32***
+==PROF== Profiling "implicit_convolve_sgemm" - 160: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 48 48***
+==PROF== Profiling "computeOffsetsKernel" - 161: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 162: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 64 64***
+==PROF== Profiling "implicit_convolve_sgemm" - 163: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 96 96***
+==PROF== Profiling "implicit_convolve_sgemm" - 164: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 97 97***
+==PROF== Profiling "computeOffsetsKernel" - 165: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 166: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 128 128***
+==PROF== Profiling "computeOffsetsKernel" - 167: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 168: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 256 256***
+==PROF== Profiling "computeOffsetsKernel" - 169: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 170: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 384 384***
+==PROF== Profiling "computeOffsetsKernel" - 171: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 172: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 512 512***
+==PROF== Profiling "computeOffsetsKernel" - 173: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 174: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 640 640***
+==PROF== Profiling "computeOffsetsKernel" - 175: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 176: 0%....50%....100% - 10 passes
+*** 48 48 1 1 64 768 768***
+==PROF== Profiling "implicit_convolve_sgemm" - 177: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 1 1***
+==PROF== Profiling "implicit_convolve_sgemm" - 178: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 2 2***
+==PROF== Profiling "implicit_convolve_sgemm" - 179: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 4 4***
+==PROF== Profiling "implicit_convolve_sgemm" - 180: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 7 7***
+==PROF== Profiling "implicit_convolve_sgemm" - 181: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 8 8***
+==PROF== Profiling "implicit_convolve_sgemm" - 182: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 15 15***
+==PROF== Profiling "implicit_convolve_sgemm" - 183: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 16 16***
+==PROF== Profiling "implicit_convolve_sgemm" - 184: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 24 24***
+==PROF== Profiling "implicit_convolve_sgemm" - 185: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 32 32***
+==PROF== Profiling "implicit_convolve_sgemm" - 186: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 48 48***
+==PROF== Profiling "implicit_convolve_sgemm" - 187: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 64 64***
+==PROF== Profiling "computeOffsetsKernel" - 188: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 189: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 96 96***
+==PROF== Profiling "implicit_convolve_sgemm" - 190: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 97 97***
+==PROF== Profiling "computeOffsetsKernel" - 191: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 192: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 128 128***
+==PROF== Profiling "computeOffsetsKernel" - 193: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 194: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 256 256***
+==PROF== Profiling "computeOffsetsKernel" - 195: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 196: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 384 384***
+==PROF== Profiling "computeOffsetsKernel" - 197: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 198: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 512 512***
+==PROF== Profiling "computeOffsetsKernel" - 199: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 200: 0%....50%....100% - 10 passes
+*** 64 64 1 1 64 640 640***
+==PROF== Profiling "implicit_convolve_sgemm" - 201: 0%....50%....100% - 10 passes
+*** 96 96 1 1 64 1 1***
+==PROF== Profiling "implicit_convolve_sgemm" - 202: 0%....50%....100% - 10 passes
+*** 96 96 1 1 64 2 2***
+==PROF== Profiling "implicit_convolve_sgemm" - 203: 0%....50%....100% - 10 passes
+*** 96 96 1 1 64 4 4***
+==PROF== Profiling "implicit_convolve_sgemm" - 204: 0%....50%....100% - 10 passes
+*** 96 96 1 1 64 7 7***
+==PROF== Profiling "implicit_convolve_sgemm" - 205: 0%....50%....100% - 10 passes
+*** 96 96 1 1 64 8 8***
+==PROF== Profiling "implicit_convolve_sgemm" - 206: 0%....50%....100% - 10 passes
+*** 96 96 1 1 64 15 15***
+==PROF== Profiling "implicit_convolve_sgemm" - 207: 0%....50%....100% - 10 passes
+*** 96 96 1 1 64 16 16***
+==PROF== Profiling "computeOffsetsKernel" - 208: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 209: 0%....50%....100% - 10 passes
+*** 96 96 1 1 64 24 24***
+==PROF== Profiling "computeOffsetsKernel" - 210: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 211: 0%....50%....100% - 10 passes
+*** 96 96 1 1 64 32 32***
+==PROF== Profiling "implicit_convolve_sgemm" - 212: 0%....50%....100% - 10 passes
+*** 96 96 1 1 64 48 48***
+==PROF== Profiling "implicit_convolve_sgemm" - 213: 0%....50%....100% - 10 passes
+*** 96 96 1 1 64 64 64***
+==PROF== Profiling "computeOffsetsKernel" - 214: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 215: 0%....50%....100% - 10 passes
+*** 96 96 1 1 64 96 96***
+==PROF== Profiling "computeOffsetsKernel" - 216: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 217: 0%....50%....100% - 10 passes
+*** 96 96 1 1 64 97 97***
+==PROF== Profiling "computeOffsetsKernel" - 218: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 219: 0%....50%....100% - 10 passes
+*** 96 96 1 1 64 128 128***
+==PROF== Profiling "computeOffsetsKernel" - 220: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 221: 0%....50%....100% - 10 passes
+*** 96 96 1 1 64 256 256***
+==PROF== Profiling "computeOffsetsKernel" - 222: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 223: 0%....50%....100% - 10 passes
+*** 96 96 1 1 64 384 384***
+==PROF== Profiling "computeOffsetsKernel" - 224: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x32_re..." - 225: 0%....50%....100% - 10 passes
+*** 96 96 1 1 64 512 512***
+==PROF== Profiling "implicit_convolve_sgemm" - 226: 0%....50%....100% - 10 passes
+*** 128 128 1 1 64 1 1***
+==PROF== Profiling "implicit_convolve_sgemm" - 227: 0%....50%....100% - 10 passes
+*** 128 128 1 1 64 2 2***
+==PROF== Profiling "implicit_convolve_sgemm" - 228: 0%....50%....100% - 10 passes
+*** 128 128 1 1 64 4 4***
+==PROF== Profiling "computeOffsetsKernel" - 229: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 230: 0%....50%....100% - 10 passes
+*** 128 128 1 1 64 7 7***
+==PROF== Profiling "implicit_convolve_sgemm" - 231: 0%....50%....100% - 10 passes
+*** 128 128 1 1 64 8 8***
+==PROF== Profiling "implicit_convolve_sgemm" - 232: 0%....50%....100% - 10 passes
+*** 128 128 1 1 64 15 15***
+==PROF== Profiling "implicit_convolve_sgemm" - 233: 0%....50%....100% - 10 passes
+*** 128 128 1 1 64 16 16***
+==PROF== Profiling "computeOffsetsKernel" - 234: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 235: 0%....50%....100% - 10 passes
+*** 128 128 1 1 64 24 24***
+==PROF== Profiling "computeOffsetsKernel" - 236: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 237: 0%....50%....100% - 10 passes
+*** 128 128 1 1 64 32 32***
+==PROF== Profiling "implicit_convolve_sgemm" - 238: 0%....50%....100% - 10 passes
+*** 128 128 1 1 64 48 48***
+==PROF== Profiling "implicit_convolve_sgemm" - 239: 0%....50%....100% - 10 passes
+*** 128 128 1 1 64 64 64***
+==PROF== Profiling "computeOffsetsKernel" - 240: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 241: 0%....50%....100% - 10 passes
+*** 128 128 1 1 64 96 96***
+==PROF== Profiling "computeOffsetsKernel" - 242: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 243: 0%....50%....100% - 10 passes
+*** 128 128 1 1 64 97 97***
+==PROF== Profiling "computeOffsetsKernel" - 244: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 245: 0%....50%....100% - 10 passes
+*** 128 128 1 1 64 128 128***
+==PROF== Profiling "computeOffsetsKernel" - 246: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 247: 0%....50%....100% - 10 passes
+*** 128 128 1 1 64 256 256***
+==PROF== Profiling "computeOffsetsKernel" - 248: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 249: 0%....50%....100% - 10 passes
+*** 128 128 1 1 64 384 384***
+==PROF== Profiling "implicit_convolve_sgemm" - 250: 0%....50%....100% - 10 passes
+*** 256 256 1 1 64 1 1***
+==PROF== Profiling "implicit_convolve_sgemm" - 251: 0%....50%....100% - 10 passes
+*** 256 256 1 1 64 2 2***
+==PROF== Profiling "implicit_convolve_sgemm" - 252: 0%....50%....100% - 10 passes
+*** 256 256 1 1 64 4 4***
+==PROF== Profiling "implicit_convolve_sgemm" - 253: 0%....50%....100% - 10 passes
+*** 256 256 1 1 64 7 7***
+==PROF== Profiling "implicit_convolve_sgemm" - 254: 0%....50%....100% - 10 passes
+*** 256 256 1 1 64 8 8***
+==PROF== Profiling "computeOffsetsKernel" - 255: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 256: 0%....50%....100% - 10 passes
+*** 256 256 1 1 64 15 15***
+==PROF== Profiling "computeOffsetsKernel" - 257: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 258: 0%....50%....100% - 10 passes
+*** 256 256 1 1 64 16 16***
+==PROF== Profiling "implicit_convolve_sgemm" - 259: 0%....50%....100% - 10 passes
+*** 256 256 1 1 64 24 24***
+==PROF== Profiling "computeOffsetsKernel" - 260: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 261: 0%....50%....100% - 10 passes
+*** 256 256 1 1 64 32 32***
+==PROF== Profiling "computeOffsetsKernel" - 262: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 263: 0%....50%....100% - 10 passes
+*** 256 256 1 1 64 48 48***
+==PROF== Profiling "computeOffsetsKernel" - 264: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 265: 0%....50%....100% - 10 passes
+*** 256 256 1 1 64 64 64***
+==PROF== Profiling "computeOffsetsKernel" - 266: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 267: 0%....50%....100% - 10 passes
+*** 256 256 1 1 64 96 96***
+==PROF== Profiling "computeOffsetsKernel" - 268: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 269: 0%....50%....100% - 10 passes
+*** 256 256 1 1 64 97 97***
+==PROF== Profiling "computeOffsetsKernel" - 270: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 271: 0%....50%....100% - 10 passes
+*** 256 256 1 1 64 128 128***
+==PROF== Profiling "computeOffsetsKernel" - 272: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 273: 0%....50%....100% - 10 passes
+*** 256 256 1 1 64 256 256***
+==PROF== Profiling "implicit_convolve_sgemm" - 274: 0%....50%....100% - 10 passes
+*** 384 384 1 1 64 1 1***
+==PROF== Profiling "implicit_convolve_sgemm" - 275: 0%....50%....100% - 10 passes
+*** 384 384 1 1 64 2 2***
+==PROF== Profiling "implicit_convolve_sgemm" - 276: 0%....50%....100% - 10 passes
+*** 384 384 1 1 64 4 4***
+==PROF== Profiling "implicit_convolve_sgemm" - 277: 0%....50%....100% - 10 passes
+*** 384 384 1 1 64 7 7***
+==PROF== Profiling "implicit_convolve_sgemm" - 278: 0%....50%....100% - 10 passes
+*** 384 384 1 1 64 8 8***
+==PROF== Profiling "computeOffsetsKernel" - 279: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 280: 0%....50%....100% - 10 passes
+*** 384 384 1 1 64 15 15***
+==PROF== Profiling "computeOffsetsKernel" - 281: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 282: 0%....50%....100% - 10 passes
+*** 384 384 1 1 64 16 16***
+==PROF== Profiling "computeOffsetsKernel" - 283: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 284: 0%....50%....100% - 10 passes
+*** 384 384 1 1 64 24 24***
+==PROF== Profiling "computeOffsetsKernel" - 285: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 286: 0%....50%....100% - 10 passes
+*** 384 384 1 1 64 32 32***
+==PROF== Profiling "computeOffsetsKernel" - 287: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 288: 0%....50%....100% - 10 passes
+*** 384 384 1 1 64 48 48***
+==PROF== Profiling "computeOffsetsKernel" - 289: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 290: 0%....50%....100% - 10 passes
+*** 384 384 1 1 64 64 64***
+==PROF== Profiling "im2col4d_kernel" - 291: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 292: 0%....50%....100% - 10 passes
+*** 384 384 1 1 64 96 96***
+==PROF== Profiling "im2col4d_kernel" - 293: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 294: 0%....50%....100% - 10 passes
+*** 384 384 1 1 64 97 97***
+==PROF== Profiling "im2col4d_kernel" - 295: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 296: 0%....50%....100% - 10 passes
+*** 384 384 1 1 64 128 128***
+==PROF== Profiling "im2col4d_kernel" - 297: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 298: 0%....50%....100% - 10 passes
+*** 384 384 1 1 64 256 256***
+==PROF== Profiling "implicit_convolve_sgemm" - 299: 0%....50%....100% - 10 passes
+*** 512 512 1 1 64 1 1***
+==PROF== Profiling "im2col4d_kernel" - 300: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 301: 0%....50%....100% - 10 passes
+*** 512 512 1 1 64 2 2***
+==PROF== Profiling "implicit_convolve_sgemm" - 302: 0%....50%....100% - 10 passes
+*** 512 512 1 1 64 4 4***
+==PROF== Profiling "implicit_convolve_sgemm" - 303: 0%....50%....100% - 10 passes
+*** 512 512 1 1 64 7 7***
+==PROF== Profiling "implicit_convolve_sgemm" - 304: 0%....50%....100% - 10 passes
+*** 512 512 1 1 64 8 8***
+==PROF== Profiling "implicit_convolve_sgemm" - 305: 0%....50%....100% - 10 passes
+*** 512 512 1 1 64 15 15***
+==PROF== Profiling "implicit_convolve_sgemm" - 306: 0%....50%....100% - 10 passes
+*** 512 512 1 1 64 16 16***
+==PROF== Profiling "implicit_convolve_sgemm" - 307: 0%....50%....100% - 10 passes
+*** 512 512 1 1 64 24 24***
+==PROF== Profiling "computeOffsetsKernel" - 308: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 309: 0%....50%....100% - 10 passes
+*** 512 512 1 1 64 32 32***
+==PROF== Profiling "computeOffsetsKernel" - 310: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 311: 0%....50%....100% - 10 passes
+*** 512 512 1 1 64 48 48***
+==PROF== Profiling "computeOffsetsKernel" - 312: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 313: 0%....50%....100% - 10 passes
+*** 512 512 1 1 64 64 64***
+==PROF== Profiling "computeOffsetsKernel" - 314: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 315: 0%....50%....100% - 10 passes
+*** 512 512 1 1 64 96 96***
+==PROF== Profiling "computeOffsetsKernel" - 316: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 317: 0%....50%....100% - 10 passes
+*** 512 512 1 1 64 97 97***
+==PROF== Profiling "computeOffsetsKernel" - 318: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 319: 0%....50%....100% - 10 passes
+*** 512 512 1 1 64 128 128***
+==PROF== Profiling "implicit_convolve_sgemm" - 320: 0%....50%....100% - 10 passes
+*** 640 640 1 1 64 1 1***
+==PROF== Profiling "im2col4d_kernel" - 321: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 322: 0%....50%....100% - 10 passes
+*** 640 640 1 1 64 2 2***
+==PROF== Profiling "implicit_convolve_sgemm" - 323: 0%....50%....100% - 10 passes
+*** 640 640 1 1 64 4 4***
+==PROF== Profiling "implicit_convolve_sgemm" - 324: 0%....50%....100% - 10 passes
+*** 640 640 1 1 64 7 7***
+==PROF== Profiling "implicit_convolve_sgemm" - 325: 0%....50%....100% - 10 passes
+*** 640 640 1 1 64 8 8***
+==PROF== Profiling "computeOffsetsKernel" - 326: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 327: 0%....50%....100% - 10 passes
+*** 640 640 1 1 64 15 15***
+==PROF== Profiling "computeOffsetsKernel" - 328: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 329: 0%....50%....100% - 10 passes
+*** 640 640 1 1 64 16 16***
+==PROF== Profiling "computeOffsetsKernel" - 330: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 331: 0%....50%....100% - 10 passes
+*** 640 640 1 1 64 24 24***
+==PROF== Profiling "im2col4d_kernel" - 332: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 333: 0%....50%....100% - 10 passes
+*** 640 640 1 1 64 32 32***
+==PROF== Profiling "computeOffsetsKernel" - 334: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 335: 0%....50%....100% - 10 passes
+*** 640 640 1 1 64 48 48***
+==PROF== Profiling "computeOffsetsKernel" - 336: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 337: 0%....50%....100% - 10 passes
+*** 640 640 1 1 64 64 64***
+==PROF== Profiling "im2col4d_kernel" - 338: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 339: 0%....50%....100% - 10 passes
+*** 640 640 1 1 64 96 96***
+==PROF== Profiling "im2col4d_kernel" - 340: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 341: 0%....50%....100% - 10 passes
+*** 640 640 1 1 64 97 97***
+==PROF== Profiling "im2col4d_kernel" - 342: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 343: 0%....50%....100% - 10 passes
+*** 640 640 1 1 64 128 128***
+==PROF== Profiling "implicit_convolve_sgemm" - 344: 0%....50%....100% - 10 passes
+*** 768 768 1 1 64 1 1***
+==PROF== Profiling "im2col4d_kernel" - 345: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 346: 0%....50%....100% - 10 passes
+*** 768 768 1 1 64 2 2***
+==PROF== Profiling "computeOffsetsKernel" - 347: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 348: 0%....50%....100% - 10 passes
+*** 768 768 1 1 64 4 4***
+==PROF== Profiling "computeOffsetsKernel" - 349: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 350: 0%....50%....100% - 10 passes
+*** 768 768 1 1 64 7 7***
+==PROF== Profiling "implicit_convolve_sgemm" - 351: 0%....50%....100% - 10 passes
+*** 768 768 1 1 64 8 8***
+==PROF== Profiling "computeOffsetsKernel" - 352: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 353: 0%....50%....100% - 10 passes
+*** 768 768 1 1 64 15 15***
+==PROF== Profiling "computeOffsetsKernel" - 354: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 355: 0%....50%....100% - 10 passes
+*** 768 768 1 1 64 16 16***
+==PROF== Profiling "computeOffsetsKernel" - 356: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 357: 0%....50%....100% - 10 passes
+*** 768 768 1 1 64 24 24***
+==PROF== Profiling "computeOffsetsKernel" - 358: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 359: 0%....50%....100% - 10 passes
+*** 768 768 1 1 64 32 32***
+==PROF== Profiling "computeOffsetsKernel" - 360: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 361: 0%....50%....100% - 10 passes
+*** 768 768 1 1 64 48 48***
+==PROF== Profiling "computeOffsetsKernel" - 362: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 363: 0%....50%....100% - 10 passes
+*** 768 768 1 1 64 64 64***
+==PROF== Profiling "computeOffsetsKernel" - 364: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 365: 0%....50%....100% - 10 passes
+*** 768 768 1 1 64 96 96***
+==PROF== Profiling "computeOffsetsKernel" - 366: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 367: 0%....50%....100% - 10 passes
+*** 768 768 1 1 64 97 97***
+==PROF== Profiling "computeOffsetsKernel" - 368: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 369: 0%....50%....100% - 10 passes
+*** 768 768 1 1 64 128 128***
+==PROF== Profiling "implicit_convolve_sgemm" - 370: 0%....50%....100% - 10 passes
+*** 896 896 1 1 64 1 1***
+==PROF== Profiling "im2col4d_kernel" - 371: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 372: 0%....50%....100% - 10 passes
+*** 896 896 1 1 64 2 2***
+==PROF== Profiling "implicit_convolve_sgemm" - 373: 0%....50%....100% - 10 passes
+*** 896 896 1 1 64 4 4***
+==PROF== Profiling "implicit_convolve_sgemm" - 374: 0%....50%....100% - 10 passes
+*** 896 896 1 1 64 7 7***
+==PROF== Profiling "implicit_convolve_sgemm" - 375: 0%....50%....100% - 10 passes
+*** 896 896 1 1 64 8 8***
+==PROF== Profiling "computeOffsetsKernel" - 376: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 377: 0%....50%....100% - 10 passes
+*** 896 896 1 1 64 15 15***
+==PROF== Profiling "computeOffsetsKernel" - 378: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 379: 0%....50%....100% - 10 passes
+*** 896 896 1 1 64 16 16***
+==PROF== Profiling "computeOffsetsKernel" - 380: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 381: 0%....50%....100% - 10 passes
+*** 896 896 1 1 64 24 24***
+==PROF== Profiling "computeOffsetsKernel" - 382: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 383: 0%....50%....100% - 10 passes
+*** 896 896 1 1 64 32 32***
+==PROF== Profiling "computeOffsetsKernel" - 384: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 385: 0%....50%....100% - 10 passes
+*** 896 896 1 1 64 48 48***
+==PROF== Profiling "computeOffsetsKernel" - 386: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 387: 0%....50%....100% - 10 passes
+*** 896 896 1 1 64 64 64***
+==PROF== Profiling "computeOffsetsKernel" - 388: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 389: 0%....50%....100% - 10 passes
+*** 896 896 1 1 64 96 96***
+==PROF== Profiling "computeOffsetsKernel" - 390: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 391: 0%....50%....100% - 10 passes
+*** 896 896 1 1 64 97 97***
+==PROF== Profiling "computeOffsetsKernel" - 392: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 393: 0%....50%....100% - 10 passes
+*** 896 896 1 1 64 128 128***
+==PROF== Profiling "implicit_convolve_sgemm" - 394: 0%....50%....100% - 10 passes
+*** 1024 1024 1 1 64 1 1***
+==PROF== Profiling "implicit_convolve_sgemm" - 395: 0%....50%....100% - 10 passes
+*** 1024 1024 1 1 64 2 2***
+==PROF== Profiling "implicit_convolve_sgemm" - 396: 0%....50%....100% - 10 passes
+*** 1024 1024 1 1 64 4 4***
+==PROF== Profiling "implicit_convolve_sgemm" - 397: 0%....50%....100% - 10 passes
+*** 1024 1024 1 1 64 7 7***
+==PROF== Profiling "computeOffsetsKernel" - 398: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 399: 0%....50%....100% - 10 passes
+*** 1024 1024 1 1 64 8 8***
+==PROF== Profiling "computeOffsetsKernel" - 400: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 401: 0%....50%....100% - 10 passes
+*** 1024 1024 1 1 64 15 15***
+==PROF== Profiling "computeOffsetsKernel" - 402: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 403: 0%....50%....100% - 10 passes
+*** 1024 1024 1 1 64 16 16***
+==PROF== Profiling "computeOffsetsKernel" - 404: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 405: 0%....50%....100% - 10 passes
+*** 1024 1024 1 1 64 24 24***
+==PROF== Profiling "computeOffsetsKernel" - 406: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 407: 0%....50%....100% - 10 passes
+*** 1024 1024 1 1 64 32 32***
+==PROF== Profiling "im2col4d_kernel" - 408: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 409: 0%....50%....100% - 10 passes
+*** 1024 1024 1 1 64 48 48***
+==PROF== Profiling "computeOffsetsKernel" - 410: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 411: 0%....50%....100% - 10 passes
+*** 1024 1024 1 1 64 64 64***
+==PROF== Profiling "computeOffsetsKernel" - 412: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 413: 0%....50%....100% - 10 passes
+*** 1024 1024 1 1 64 96 96***
+==PROF== Profiling "computeOffsetsKernel" - 414: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 415: 0%....50%....100% - 10 passes
+*** 1024 1024 1 1 64 97 97***
+==PROF== Profiling "computeOffsetsKernel" - 416: 0%....50%....100% - 10 passes
+==PROF== Profiling "cudnn_ampere_scudnn_128x64_re..." - 417: 0%....50%....100% - 10 passes
+*** 1024 1024 1 1 64 128 128***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 418: 0%....50%....100% - 10 passes
+*** 2048 2048 1 1 64 1 1***
+==PROF== Profiling "kern_precompute_indices" - 419: 0%....50%....100% - 10 passes
+==PROF== Profiling "precomputed_convolve_sgemm" - 420: 0%....50%....100% - 10 passes
+*** 2048 2048 1 1 64 2 2***
+==PROF== Profiling "kern_precompute_indices" - 421: 0%....50%....100% - 10 passes
+==PROF== Profiling "precomputed_convolve_sgemm" - 422: 0%....50%....100% - 10 passes
+*** 2048 2048 1 1 64 4 4***
+==PROF== Profiling "implicit_convolve_sgemm" - 423: 0%....50%....100% - 10 passes
+*** 2048 2048 1 1 64 7 7***
+==PROF== Profiling "im2col4d_kernel" - 424: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 425: 0%....50%....100% - 10 passes
+*** 2048 2048 1 1 64 8 8***
+==PROF== Profiling "im2col4d_kernel" - 426: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 427: 0%....50%....100% - 10 passes
+*** 2048 2048 1 1 64 15 15***
+==PROF== Profiling "im2col4d_kernel" - 428: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 429: 0%....50%....100% - 10 passes
+*** 2048 2048 1 1 64 16 16***
+==PROF== Profiling "im2col4d_kernel" - 430: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 431: 0%....50%....100% - 10 passes
+*** 2048 2048 1 1 64 24 24***
+==PROF== Profiling "im2col4d_kernel" - 432: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 433: 0%....50%....100% - 10 passes
+*** 2048 2048 1 1 64 32 32***
+==PROF== Profiling "im2col4d_kernel" - 434: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 435: 0%....50%....100% - 10 passes
+*** 2048 2048 1 1 64 48 48***
+==PROF== Profiling "im2col4d_kernel" - 436: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 437: 0%....50%....100% - 10 passes
+*** 2048 2048 1 1 64 64 64***
+==PROF== Profiling "im2col4d_kernel" - 438: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 439: 0%....50%....100% - 10 passes
+*** 2048 2048 1 1 64 96 96***
+==PROF== Profiling "im2col4d_kernel" - 440: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 441: 0%....50%....100% - 10 passes
+*** 2048 2048 1 1 64 97 97***
+==PROF== Profiling "conv2d_grouped_direct_kernel" - 442: 0%....50%....100% - 10 passes
+*** 4096 4096 1 1 64 1 1***
+==PROF== Profiling "im2col4d_kernel" - 443: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 444: 0%....50%....100% - 10 passes
+*** 4096 4096 1 1 64 2 2***
+==PROF== Profiling "im2col4d_kernel" - 445: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 446: 0%....50%....100% - 10 passes
+*** 4096 4096 1 1 64 4 4***
+==PROF== Profiling "im2col4d_kernel" - 447: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 448: 0%....50%....100% - 10 passes
+*** 4096 4096 1 1 64 7 7***
+==PROF== Profiling "im2col4d_kernel" - 449: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 450: 0%....50%....100% - 10 passes
+*** 4096 4096 1 1 64 8 8***
+==PROF== Profiling "im2col4d_kernel" - 451: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 452: 0%....50%....100% - 10 passes
+*** 4096 4096 1 1 64 15 15***
+==PROF== Profiling "im2col4d_kernel" - 453: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 454: 0%....50%....100% - 10 passes
+*** 4096 4096 1 1 64 16 16***
+==PROF== Profiling "im2col4d_kernel" - 455: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 456: 0%....50%....100% - 10 passes
+*** 4096 4096 1 1 64 24 24***
+==PROF== Profiling "im2col4d_kernel" - 457: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 458: 0%....50%....100% - 10 passes
+*** 4096 4096 1 1 64 32 32***
+==PROF== Profiling "im2col4d_kernel" - 459: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 460: 0%....50%....100% - 10 passes
+*** 4096 4096 1 1 64 48 48***
+==PROF== Profiling "im2col4d_kernel" - 461: 0%....50%....100% - 10 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 462: 0%....50%....100% - 10 passes
+*** 4096 4096 1 1 64 64 64***
+==PROF== Disconnected from process 94684
+==PROF== Report: /home/jianglijuan/dloperator_analysis/conv2d/fakepara-perf-analysis/conv2d.ncu-rep

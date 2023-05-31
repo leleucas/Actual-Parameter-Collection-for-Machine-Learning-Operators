@@ -1,0 +1,10 @@
+Time,gpu__compute_memory_throughput.avg.pct_of_peak_sustained_elapsed,l1tex__throughput.avg.pct_of_peak_sustained_elapsed,lts__throughput.avg.pct_of_peak_sustained_elapsed,sm__throughput.avg.pct_of_peak_sustained_elapsed,l1tex__data_pipe_lsu_wavefronts_mem_shared.sum.pct_of_peak_sustained_elapsed,Achieved Occupancy,l1tex__data_bank_conflicts_pipe_lsu_mem_shared.sum
+8.35200483323562e-06,2.99,2.99,3.72,39.39,2.14,49.13,0.0
+4.128004738830192e-06,0.8,0.11,0.8,0.34,0.02,12.44,0.0
+5.695998848807572e-06,1.6,1.51,1.97,20.31,1.08,26.32,0.0
+3.9039984447948575e-06,0.81,0.11,0.81,0.12,0.01,12.43,0.0
+7.776001830012719e-06,2.69,2.69,2.27,35.32,2.16,40.64,0.0
+9.5040037322176e-06,18.43,13.54,18.43,11.52,12.24,6.26,0.0
+3.616002155840474e-06,0.77,0.13,0.77,0.0,0.0,2.98,0.0
+1.2704002323766124e-05,31.13,31.13,7.04,28.47,26.22,21.09,0.0
+8.480000736183162e-06,16.79,16.79,12.39,8.45,12.94,6.48,0.0
